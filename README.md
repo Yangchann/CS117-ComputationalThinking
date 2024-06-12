@@ -30,8 +30,15 @@
 <p align="justify">Our goal is to create an LPR system that uses efficient deep learning algorithms to accurately and quickly recognize license plates. This solution effectively supports parking lots by shortening the entry and exit process, reducing waiting time, and minimizing human intervention. </p>
 
 ### 2. Poster
-![Image]()
+<p align="center">
+  <img src="https://github.com/Yangchann/CS117-ComputationalThinking/blob/main/Poster.png" alt="Poster" width="500">
+</p>
 
 ### 3. User Interface
-![Image]()
-![Image]()
+<p align="center">
+  <img src="" alt="Interface">
+</p>
+<p align="center">
+  <img src="" alt="Interface">
+</p>
+
