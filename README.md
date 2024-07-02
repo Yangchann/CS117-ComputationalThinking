@@ -36,9 +36,12 @@
 
 ### 3. User Interface
 <p align="center">
-  <img src="" alt="Interface">
+  <img src="https://github.com/Yangchann/CS117-ComputationalThinking/blob/main/interface.png" alt="Interface" width="700">
 </p>
 <p align="center">
-  <img src="" alt="Interface">
+  <img src="https://github.com/Yangchann/CS117-ComputationalThinking/blob/main/longlp.png" alt="Interface" width="700">
+</p>
+<p align="center">
+  <img src="https://github.com/Yangchann/CS117-ComputationalThinking/blob/main/shortlp.png" alt="Interface" width="700">
 </p>
 
